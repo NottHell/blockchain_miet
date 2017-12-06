@@ -16,6 +16,6 @@
 | [Никитин Евгений](https://vk.com/id38075050) | МП-48 |
 | [Птачек Сергей](https://vk.com/ptachek_sergey) | МП-15 |
 | [Кожин Георгий](https://vk.com/cheshister) | МП-49 |
-
+| [Алексютенко Денис](https://vk.com/dyaleksyutenko) | Python |
 Чтобы попасть в этот список, необходимо выполнить [тестовое задание](Vpiska.md).
 
